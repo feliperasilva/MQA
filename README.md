@@ -18,7 +18,6 @@ Sistema para intermediar a comunicação entre doadores e ONGs. Criado com o int
 * HTML
 * CSS
 * LARAVEL
-* MYSQL
 * TYPESCRIPT
 * NEXT.JS
 
