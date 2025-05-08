@@ -41,7 +41,7 @@ A aplicação oferece um ambiente interativo e protegido, no qual organizações
 
 - **Outros**
   - HTML5, CSS3
-  - MySQL (ou outro banco relacional)
+  - MySQL
 
 ---
 
@@ -62,8 +62,8 @@ A aplicação oferece um ambiente interativo e protegido, no qual organizações
 1. **Clonar o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/feliperasilva/MQA
+cd MQA
 ```
 
 2. **Instalar dependências do backend:**
@@ -100,7 +100,6 @@ npm install
 6. **Iniciar o servidor e o frontend:**
 
 ```bash
-php artisan serve
 composer run dev
 ```
 
